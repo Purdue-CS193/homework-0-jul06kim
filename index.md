@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Julia's First CS193 Homework
+
+Favorite things about CS193:
+- Learning new things
+- Making friends
+- Knowing that there are students in my class that have the same major as me (DS) which means I can meet and get to know them so we can help and work with each other!
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,12 +18,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Julia's First CS193 Homework
+# Header
+## Header
+### Header
 
-Favorite things about CS193
-- Learning new things
-- Meeting new people and talking about our insterests
-- Knowing that there are some students in my class that have the same major as me (DS) which means I can meet and get to know them so we can help and work with each other!
+-Bulleted
+-List
 
 1. Numbered
 2. List
